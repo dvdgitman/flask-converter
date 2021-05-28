@@ -1,2 +1,2 @@
 # flask-converter
-A flask webapp to convert from converter temperature from Celsius to Fahrenheit.
+A WebApp for converting temprature from Celsius to Fahrenheit.
