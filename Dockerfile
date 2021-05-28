@@ -1,4 +1,4 @@
-FROM python:3.8gitt
+FROM python:3.8
 
 WORKDIR /app
 
