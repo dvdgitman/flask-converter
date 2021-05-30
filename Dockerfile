@@ -13,4 +13,6 @@ ENV FLASK_RUN_HOST=0.0.0.0
 
 EXPOSE 8080
 
-ENTRYPOINT flask run
+ENTRYPOINT [ "python" ]
+
+CMD [ "app.py" ]
